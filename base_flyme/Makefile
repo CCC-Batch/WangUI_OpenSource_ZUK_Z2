@@ -16,4 +16,6 @@ SYSTEM_PROP := system.prop
 #Pre_Unpack bootimage's file
 PRE_UNPACK_BOOTIMAGE := bootimage.out/
 
+FINGERPRINT_FW_TIP_STRING := fingerprint_framework/strings.xml
+
 #End of this file
