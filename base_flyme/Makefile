@@ -12,4 +12,8 @@ CERTIFICATE := chain/build.x509.pem
 BOOTIMAGE := bootimage/bootimage
 
 SYSTEM_PROP := system.prop
+
+#Pre_Unpack bootimage's file
+PRE_UNPACK_BOOTIMAGE := bootimage.out/
+
 #End of this file
