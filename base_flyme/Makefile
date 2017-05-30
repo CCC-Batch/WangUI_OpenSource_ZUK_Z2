@@ -12,4 +12,5 @@ CERTIFICATE := chain/build.x509.pem
 
 BOOTIMAGE := bootimage/bootimage
 
+SYSTEM_PROP := system.prop
 #End of this file
